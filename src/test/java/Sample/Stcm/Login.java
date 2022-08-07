@@ -35,6 +35,7 @@ click.click();
 	private void close() throws InterruptedException {
 String title = driver.getTitle();
 System.out.println(title);
+System.out.println("hi hello");
 	}
 	
 	
