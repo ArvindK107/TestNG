@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25437" started-at="2022-08-01T16:32:50 IST" finished-at="2022-08-01T16:33:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25437" started-at="2022-08-01T16:32:50 IST" finished-at="2022-08-01T16:33:15 IST">
+      <class name="Sample.Stcm.Login">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:Sample.Stcm.Login@29b5cd00]" name="browserLaunch" is-config="true" duration-ms="21994" started-at="2022-08-01T16:32:50 IST" finished-at="2022-08-01T16:33:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="loginf()[pri:0, instance:Sample.Stcm.Login@29b5cd00]" name="loginf" duration-ms="3387" started-at="2022-08-01T16:33:12 IST" finished-at="2022-08-01T16:33:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginf -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Sample.Stcm.Login@29b5cd00]" name="close" is-config="true" duration-ms="16" started-at="2022-08-01T16:33:15 IST" finished-at="2022-08-01T16:33:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Sample.Stcm.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
